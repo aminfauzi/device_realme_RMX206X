@@ -203,6 +203,10 @@ system_ext/framework/qti-telephony-common.jar|b4d187700f279cdbd40e74b4c3be4504f1
 # Soter
 -system_ext/app/SoterService/SoterService.apk
 
+# Usb
+vendor/bin/hw/android.hardware.usb@1.0-service:bin/hw/android.hardware.usb@1.0-service
+vendor/etc/init/android.hardware.usb@1.0-service.rc:etc/init/android.hardware.usb@1.0-service.rc
+
 # WiFi Display
 lib/libavservices_minijail.so
 lib64/libavservices_minijail.so
